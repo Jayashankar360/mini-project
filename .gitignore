@@ -1,5 +1,7 @@
 # Virtual Environment
 finance/
+venv/
+env/
 
 # Django
 *.pyc
